@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>LoadMatrix Privacy Policy</title>
+
+<style>
+body{
+    font-family:Arial,Helvetica,sans-serif;
+    max-width:900px;
+    margin:40px auto;
+    padding:20px;
+    line-height:1.6;
+    color:#222;
+}
+
+h1{
+    color:#1d4ed8;
+}
+
+h2{
+    margin-top:30px;
+    color:#1f2937;
+}
+
+strong{
+    color:#111827;
+}
+</style>
+</head>
+
+<body>
+
+<h1>LoadMatrix Privacy Policy</h1>
+
+<p><strong>Effective Date:</strong> January 2026</p>
+
+<p>
+LoadMatrix is a freight loading and cargo visualization application designed
+for operational planning and educational purposes.
+</p>
+
+<h2>1. Information Collection</h2>
+
+<p>
+LoadMatrix does not collect personal information such as names,
+email addresses, phone numbers, or payment information.
+</p>
+
+<p>
+The application may temporarily store local configuration data on your device,
+including:
+</p>
+
+<ul>
+<li>Equipment dimensions</li>
+<li>Load configurations</li>
+<li>Visualization preferences</li>
+<li>Session settings</li>
+</ul>
+
+<p>
+This information remains on your device and is not transmitted to external servers.
+</p>
+
+<h2>2. Analytics and Diagnostics</h2>
+
+<p>
+Future versions of LoadMatrix may include anonymous crash diagnostics or usage
+analytics to improve stability and performance.
+</p>
+
+<p>
+If analytics are introduced, users will be informed through the application.
+</p>
+
+<h2>3. Offline Usage</h2>
+
+<p>
+LoadMatrix is designed to operate primarily offline. Some features may require
+internet connectivity for updates or future cloud services.
+</p>
+
+<h2>4. Data Security</h2>
+
+<p>
+Reasonable technical measures are used to protect locally stored application
+data. However, no software system can guarantee absolute security.
+</p>
+
+<h2>5. Third-Party Services</h2>
+
+<p>
+LoadMatrix may use third-party technologies including:
+</p>
+
+<ul>
+<li>Three.js</li>
+<li>Android WebView</li>
+<li>Capacitor runtime components</li>
+</ul>
+
+<p>
+These technologies have their own licenses and privacy policies.
+</p>
+
+<h2>6. User Responsibility</h2>
+
+<p>
+LoadMatrix is intended as a planning and visualization tool. Users remain
+responsible for validating all operational, safety, and loading decisions
+before real-world implementation.
+</p>
+
+<h2>7. Changes to this Policy</h2>
+
+<p>
+This Privacy Policy may be updated from time to time. Updates will be reflected
+on this page.
+</p>
+
+<h2>8. Contact</h2>
+
+<p>
+For questions regarding this Privacy Policy, contact:
+<strong>hliasf26@hotmail.com</strong>.
+</p>
+
+</body>
+</html>
